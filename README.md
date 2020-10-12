@@ -1,5 +1,5 @@
 # App Colabora
-Esse é o nosso projeto dedicado ao Hackaton da GetNet. Fomos desafiados To participando do Hackathon da GetNet nesse fds e o objetivo é mudar a realidade de pequenas e médias empresas por meio de serviços financeiros 🏦
+Esse é o nosso projeto dedicado ao Hackaton da GetNet. Fomos desafiados a é mudar a realidade de pequenas e médias empresas por meio de serviços financeiros 🏦
 
 O **Colabora** é um aplicativo que consiste em um ecossistema para micro e pequenos empreendedores. Nele, é possível realizar compras coletivas e também fazer permuta de serviços e de produtos. 
 
